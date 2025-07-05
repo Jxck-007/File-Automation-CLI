@@ -13,7 +13,9 @@ Built using `argparse` for clean CLI input and logic, this tool helps manage clu
   - 📷 Images (`.jpg`, `.png`, `.jpeg`)
   - 🎵 Audio (`.mp3`, `.wav`, `.aac`)
   - 🎥 Video (`.mp4`, `.mov`)
-  - 📄 Documents (`.pdf`, `.docx`, `.txt`)
+  - 📄 Documents (`.pdf`, `.docx`, `.txt`,'xlsx','pptx','xlsb')
+  - Other Software Downloaders ('.exe','.msi')
+  - Compressed Files('.zip','.rar','.7z')
 - Built using clean object-oriented Python (OOP)
 - Command-line interface using `argparse`
 - User-defined folder input — safe and flexible
